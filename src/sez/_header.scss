@@ -1,0 +1,11 @@
+header{
+  height: 80px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid $color-white;
+  background-color: $color-primary;
+  padding: 12px;
+}
+.header__logo{align-items: center;}
+.header__logo i{margin-right: 12px;}
