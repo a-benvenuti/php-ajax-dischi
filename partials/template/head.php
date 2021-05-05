@@ -14,6 +14,7 @@
     <!-- /FontAwesome -->
     <!-- css -->
     <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="dist/app.css"> -->
     <!-- /css -->
     <!-- favicon -->
     <link rel="icon" type="image/png" href="https://static.vecteezy.com/system/resources/previews/001/206/478/non_2x/music-flat-icon-vinyl-record-png.png" />
